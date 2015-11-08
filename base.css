@@ -1,0 +1,62 @@
+body {
+  font-family: Georgia;
+  line-height: 1.5;
+  padding: 1em;
+  color: #002940;
+}
+
+
+h1,
+h2,
+h3 {
+font-family: Arial;
+color: #0C3D7F;
+}
+
+h2 {
+  color: #002940;
+}
+
+a {
+  color: #007BBF;
+}
+
+a:hover {
+  color: #0C3D7F;
+  text-decoration: underline;
+}
+
+time {
+  font-style: italic;
+  color: #00527F;
+}
+ul.contact-info {
+  font-family: Arial;
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+
+}
+ul.contact-info b {
+  font-weight: 600;
+  color: #00527F;
+}
+ul.contact-info a {
+  font-size: .925em;
+  text-decoration: none;
+}
+ul.contact-info a:hover {
+  font-size: .925em;
+  text-decoration: underline;
+}
+a.company-website {
+  color: #0C3D7F;
+  text-decoration: none;
+}
+a:hover.company-website {
+  color: #007BBF;
+  text-decoration: underline;
+}
+
+
