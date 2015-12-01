@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+  margin:auto;
+  width: 21cm;
+  border: 1px solid #ccc;
+  padding: 2cm;
+  box-shadow: 5px 5px 2px #bbb;
+}
+.personal-info {
+  display: flex;
+  justify-content: space-between;
+  height: 7em;
+}
